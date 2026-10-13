@@ -62,6 +62,18 @@ The accompanying results report records the following values for its held-out te
 
 These are the values in the supplied report, not a guarantee that a fresh run will reproduce them. The low reported segmentation scores indicate that the demonstration segmentation pipeline needs substantial improvement before being used to support segmentation claims.
 
+
+## Segmentation Results (Dice & Jaccard)
+
+**Mean Dice Coefficient:** 0.0410 ± 0.0379
+
+**Mean Jaccard Index:** 0.0213 ± 0.0201
+
+### Segmentation Visualization
+
+![Skin Cancer Lesion Segmentation Results](segmentation-results.png)
+
+
 ## Important implementation notes
 
 - The classification model defined in the notebook is based on **EfficientNet-B3**; it is not a full Mask R-CNN implementation.
