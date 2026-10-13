@@ -1,8 +1,5 @@
 # Skin Cancer Lesion Segmentation and Classification
 
-A Google Colab/Kaggle-oriented research notebook for skin-lesion image preprocessing and seven-class skin-cancer classification using the HAM10000 dataset. The notebook uses Dull-Razor hair-artifact removal, an EfficientNet-B3 classifier, class-weighted learning, and a lightweight Mayfly-inspired hyperparameter-search demonstration.
-
-> **Research-use notice:** This repository is an experimental research implementation, not a clinically validated diagnostic tool. The reported results are specific to the run documented in `Skin_Cancer_Results_Report.docx`. They should not be interpreted as evidence of clinical readiness.
 
 ## Project overview
 
