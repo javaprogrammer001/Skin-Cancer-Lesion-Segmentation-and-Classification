@@ -19,7 +19,7 @@ The workflow is organized into these stages:
 The notebook is configured for **HAM10000**. Download it from Kaggle:
 
 - Dataset: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
-- Kaggle API instructions: https://www.kaggle.com/docs/api
+
 
 The seven label codes used by the notebook are:
 
