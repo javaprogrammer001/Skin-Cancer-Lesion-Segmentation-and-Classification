@@ -71,7 +71,7 @@ These are the values in the supplied report, not a guarantee that a fresh run wi
 
 ### Segmentation Visualization
 
-![Skin Cancer Lesion Segmentation Results](segmentation-results.png)
+![Skin Cancer Lesion Segmentation Results](Predicted.png)
 
 
 ## Important implementation notes
