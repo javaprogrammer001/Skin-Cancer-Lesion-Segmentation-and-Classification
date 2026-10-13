@@ -35,21 +35,6 @@ The seven label codes used by the notebook are:
 
 Check the dataset's accompanying documentation for the exact label definitions and limitations.
 
-## Environment and requirements
-
-The notebook is designed for Google Colab or a compatible Jupyter environment. It uses Python with PyTorch, pandas, NumPy, scikit-learn, Matplotlib, seaborn, OpenCV, Pillow, and related utilities. The first notebook cell installs the required packages.
-
-A CUDA-enabled runtime is recommended for faster model training, but availability depends on your environment.
-
-## How to run
-
-1. Download or clone this repository.
-2. Open `skin-cancer-fuzzy-unet-rcnn-mayfly-colab-kaggle.ipynb` in Google Colab.
-3. Accept the relevant Kaggle dataset terms and create a Kaggle API token.
-4. Upload `kaggle.json` to the Colab session as directed by the notebook. **Do not commit this token to GitHub.**
-5. Run the notebook cells in order.
-6. Review the generated metrics and report files; results can vary by environment and execution.
-
 ## Reported test results
 
 The accompanying results report records the following values for its held-out test set:
