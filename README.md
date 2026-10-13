@@ -70,10 +70,7 @@ These are the values in the supplied report, not a guarantee that a fresh run wi
 - HAM10000 does not provide official segmentation masks for every image. A rigorous segmentation study requires suitable image-mask pairs and clearly defined evaluation procedures.
 - Split counts and reported metrics should be checked against the outputs from the exact notebook run before using them in a paper.
 
-## Files
 
-- `skin-cancer-fuzzy-unet-rcnn-mayfly-colab-kaggle.ipynb` — main notebook.
-- `Skin_Cancer_Results_Report.docx` — accompanying results report.
 
 ## Suggested future improvements
 
